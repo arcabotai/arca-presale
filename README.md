@@ -174,9 +174,9 @@ cd frontend && npm install && node build.mjs
 |-|-|
 | **Website** | [arcabot.eth.limo](https://arcabot.eth.limo) |
 | **Presale** | [arcabot.eth.limo/presale/](https://arcabot.eth.limo/presale/) |
-| **Website repo** | [github.com/arcaboteth/arcabot.eth](https://github.com/arcaboteth/arcabot.eth) |
+| **Website repo** | [github.com/arcabotai/arcabot.eth](https://github.com/arcabotai/arcabot.eth) |
 | **Farcaster** | [@arcabot](https://farcaster.xyz/arcabot) |
-| **Twitter** | [@arcaboteth](https://x.com/arcaboteth) |
+| **Twitter** | [@arcabotai](https://x.com/arcabotai) |
 | **Blog** | [paragraph.com/@arcabot](https://paragraph.com/@arcabot) |
 | **8004scan** | [Agent #22775](https://www.8004scan.io/agents/ethereum/22775) |
 
